@@ -1,4 +1,4 @@
-# PooliotOS documentation for [coscreens.com](coscreens.com)
+# PooliotOS documentation for [coscreens.com](https://coscreens.com)
 
 [Installation](https://github.com/christophehurpeau/pooliot-doc/tree/master/installation.md)
 

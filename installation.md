@@ -2,10 +2,12 @@
 
 ## Matériel nécessaire
 
-- Raspberry ([Pi 3 Modele B+](https://www.amazon.fr/gp/product/B07BDR5PDW/ref=as_li_tl?ie=UTF8&tag=chrp-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B07BDR5PDW&linkId=b9f71c3af850a4b2bbe1b3fdc0459426) [Pi 4 Modele B](https://www.amazon.fr/gp/product/B07TD42S27/ref=as_li_tl?ie=UTF8&tag=chrp-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B07TD42S27&linkId=3387e8658f6debb990268e9c66da95f7))
-- Alimentation et dissipateurs ([Alimentation + dissipateurs AUKRU](https://www.amazon.fr/gp/product/B01DDFFOYK/ref=as_li_tl?ie=UTF8&tag=chrp-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B01DDFFOYK&linkId=42ad60385676a69a3e77c276dffd5c07))
-- Carte micro SD de 8Go min homologuée [A1 + U3](https://en.wikipedia.org/wiki/Secure_Digital#Speeds) minimum (exemple: [microsd SCANDISC 32 Go pour 12euros](https://www.amazon.fr/gp/product/B06XWMQ81P/ref=as_li_tl?ie=UTF8&tag=chrp-21&camp=1642&creative=6746&linkCode=as2&creativeASIN=B06XWMQ81P&linkId=48534d6274a1e551862ae7f40db9fa9e))
-- L'image de la carte fournie par Chris
+- Raspberry ([Pi 3 Modele B](https://amzn.to/2M3CnbP) [Pi 4 Modele B](https://amzn.to/3sTwXRd))
+- Alimentation et dissipateurs ([Alimentation + dissipateurs AUKRU](https://amzn.to/39ShBnm))
+- Carte micro SD de 8Go min homologuée [A1 + U3](https://en.wikipedia.org/wiki/Secure_Digital#Speeds) minimum (exemple: [microsd SCANDISC 32 Go pour 12euros](https://amzn.to/39foS1L))
+- Le zip fourni par Chris
+
+Notez que ce sont des liens de partenaire Amazon
 
 ## Quelques règles
 

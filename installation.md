@@ -11,9 +11,19 @@ Notez que ce sont des liens de partenaire Amazon
 
 ## Quelques règles
 
-- Toujours brancher le cable HDMI avant l'alimentation (sinon la sortie vidéo n'a pas la bonne résolution)
-- Toujours utiliser "Eteindre" dans l'interface puis attendre que la LED verte arrete de clignoter avant de débrancher une RPI. Le contraire peut rendre la carte SD corrompue et entrainer des mauvais fonctionnement tel que page web qui ne s'ouvre pas à chaque fois, certaines page plantent sans raison, voir meme impossible de démarrer. Dans ce cas, il faudra réécrire la carte, ou la changer.
-- **Ne pas utiliser l'alimentation USB de la TV** pour alimenter la RPI pour 2 raisons: 1/ souvent l'alimentation ne suffit pas pour alimenter la rpi (ca marchotte mais ca peut poser des problèmes pour les videos et la longévité de la rpi) et 2/ lorsqu'on coupe la tv, l'alimentation USB va couper résultant en un arret brutal (cf point précédent)
+### Toujours brancher le cable HDMI avant l'alimentation
+
+sinon la sortie vidéo n'a pas la bonne résolution
+
+### Toujours utiliser "Eteindre" dans l'interface puis attendre que la LED verte arrete de clignoter avant de débrancher une RPI
+
+Le contraire peut rendre la carte SD corrompue et entrainer des mauvais fonctionnement tel que page web qui ne s'ouvre pas à chaque fois, certaines page plantent sans raison, voir meme impossible de démarrer. Dans ce cas, il faudra réécrire la carte, ou la changer.
+
+### Ne pas utiliser l'alimentation USB de la TV pour alimenter la RPI
+
+pour 2 raisons:
+1/ souvent l'alimentation ne suffit pas pour alimenter la rpi (ca marchotte mais ca peut poser des problèmes pour les videos et la longévité de la rpi)
+2/ lorsqu'on coupe la tv, l'alimentation USB va couper résultant en un arret brutal (cf point précédent)
 
 https://www.raspberrypi.org/documentation/faqs/#pi-power
 
